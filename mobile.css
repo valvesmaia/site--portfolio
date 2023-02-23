@@ -1,0 +1,87 @@
+@media only screen and (max-device-width: 450px) {
+    h1 {
+        text-align: center;
+    }
+
+    button {
+        height: 64px;
+        font-size: 20px;
+        padding-left: 12px;
+        padding-right: 12px;
+        
+    }
+
+    .content-container {
+      width: 96vw;
+      max-width: 96vw;
+  }
+
+  .barra-navegacao {  
+      width: 100%;
+
+  }
+
+  .titulo-navegacao {
+   
+    font-size: 32px;
+    
+    
+}
+
+  .links-navegacao {
+    display: none;
+}
+
+  .hero-info-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 24px;
+
+  }
+
+.section-hero {
+    height: auto;
+    padding-bottom: 8%;
+     
+}
+
+ .hero-info {
+      width: 100%;
+      flex-direction: column-reverse;
+      align-items: center;
+      justify-content: center;
+  } 
+
+  .hero-info-image {
+      width: 20vw;
+  }
+
+  .ability-cards-container {
+      row-gap: 36px;
+      grid-template-columns: auto;
+      margin-top: 12px;
+      
+  }
+
+  .section-portfolio-grid {
+      row-gap: 36px;
+      grid-template-columns: auto;
+       margin-top: 24px;
+  
+  }
+
+  .section-experiences-card {
+      width: 90vw;
+      
+  }
+
+  .footer-content {
+      width: 100%;
+      
+  }
+
+}

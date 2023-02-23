@@ -41,6 +41,10 @@ li {
     font-weight: 500;
 }
 
+a {
+    color: #1E1E1E;
+}
+
 button {
    
     height: 56px;
@@ -367,17 +371,19 @@ height: 24px;
 
 .section-contact-item {
     display:flex;
-    width: 500px;
+    margin-bottom: 25px;
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin-bottom: 16px;
+    
     
 
 }
 
 .section-contact-item-icon {
     width: 30px;
-    height:30px;
+    height: 30px;
     margin-right: 8px;
   
 }

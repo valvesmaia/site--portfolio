@@ -4,8 +4,8 @@
     }
 
     button {
-        height: 64px;
-        font-size: 20px;
+        height: 80px;
+        font-size: 30px;
         padding-left: 12px;
         padding-right: 12px;
         
@@ -22,9 +22,7 @@
   }
 
   .titulo-navegacao {
-   
-    font-size: 32px;
-    
+   font-size: 32px;
     
 }
 
@@ -44,20 +42,40 @@
   }
 
 .section-hero {
-    height: auto;
-    padding-bottom: 8%;
+    height: 55vh;
+    
+   
+    
      
 }
+
+.hero-info-title {
+    font-size: 70px;
+    margin-top: -60px;
+    
+}
+
+
+
+.hero-info-subtitle {
+    font-size: 36px;
+    line-height: 40px;
+    max-width: 70%;
+    margin-bottom: 40px;
+}
+
 
  .hero-info {
       width: 100%;
       flex-direction: column-reverse;
       align-items: center;
       justify-content: center;
+      margin-top: 140px;
+   
   } 
 
   .hero-info-image {
-      width: 20vw;
+      width: 250px;
   }
 
   .ability-cards-container {
@@ -83,5 +101,17 @@
       width: 100%;
       
   }
+
+  .hero-info-icons-img {
+    width:  56px;
+    height: 56px;
+    
+}
+
+.hero-info-icons-container {
+    margin-top: 40px;
+    width: 60%;
+
+}
 
 }

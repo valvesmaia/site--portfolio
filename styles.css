@@ -383,9 +383,9 @@ height: 24px;
 
 .section-contact-item-icon {
     width: 30px;
-    height: 30px;
-    margin-right: 8px;
-  
+    height: 25px;
+    margin-left: auto;
+    padding-top: 12px;
 }
 
 .footer-content {

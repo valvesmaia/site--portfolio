@@ -157,7 +157,7 @@ footer {
 
 .hero-info-image {
     height: 80%;
-    width: 300px;
+    width: 280px;
     border-radius: 40px;
     border-color: #219653;
     border-width: 4px;
@@ -246,7 +246,7 @@ footer {
     display: flex;
     width: 100%;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     justify-content: flex-start;
 
 }

@@ -27,3 +27,7 @@ git clone https://github.com/valvesmaia/site--portfolio
 2. After clone open the folder:
 
 site--porfolio
+
+3. Open the index file with the browser:
+
+index.html
